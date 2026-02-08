@@ -1,0 +1,35 @@
+@import url("https://cdn.jsdelivr.net/npm/modern-normalize@3.0.1/modern-normalize.min.css");
+
+body{
+    margin: 1em;
+}
+
+div#container{
+    background-color: rgb(21, 21, 21);
+    padding: 1em 0 1em 0;
+    color: white;
+}
+
+hr{
+    color:rgb(43, 42, 42);
+    background-color:rgb(85, 85, 85);
+    border: 0 none;
+    height: 0.2em;
+}
+
+div.right{
+    /* direction: rtl; */
+    text-align: right;
+}
+
+div.right {
+    background-color: rgb(196, 61, 246);
+    border-radius: 0.5em;
+    padding: 1em
+}
+
+div.left{
+    background-color: rgb(72, 72, 72);
+    border-radius: 0.5em;
+    padding: 1em
+}
