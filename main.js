@@ -1,4 +1,4 @@
-import { Buffer } from "https://cdn.jsdelivr.net/npm/buffer-es6@4.9.3/index.min.js";
+import { Buffer } from "https://cdn.jsdelivr.net/npm/buffer-es6@4.9.2/+esm";
 
 const inputElement = document.getElementById("file");
 const warning = document.querySelector("#warning");
