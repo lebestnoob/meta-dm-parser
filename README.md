@@ -5,7 +5,7 @@ Simple, local parser for messages sent in Meta (tested only with solo Instagram 
 Messages need to be exported in json format. 
 
 Test page:
-https://meta-dm-parser.pages.dev
+https://lebestnoob.github.io/meta-dm-parser/
 
 **Acknowledgments**
 * [buffer-es6](https://github.com/calvinmetcalf/buffer-es6/)
